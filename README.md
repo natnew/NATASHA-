@@ -1,2 +1,42 @@
 # NATASHA-
-NATASHA 
+**NATASHA N**<BR>
+PYTHON DEVELOPER
+![]()
+
+## ABOUT
+
+
+## EXPERIENCE
+
+
+## EDUCATION
+
+
+## PORTFOLIO
+
+# MY ROAD TO PYTHON DEVELOPMENT
+
+[VIEW ON GITHUB]()
+
+### PROJECT 1
+![]()
+
+### PROJECT 2
+![]()
+
+### PROJECT 3
+![]()
+
+### MINI PROJECTS
+![]()
+![]()
+![]()
+![]()
+![]()
+![]()
+
+[VIEW ON GITHUB]()
+
+## CONTACT
+
+
